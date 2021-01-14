@@ -4,7 +4,7 @@
 #   -- Owner:       https://www.inet.no/dante
 #   -- Provider:    https://sockd.info
 #   -- Author:      Lozy
-#
+
 
 # Check if user is root
 if [ $(id -u) != "0" ]; then
